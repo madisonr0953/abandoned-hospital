@@ -1,2 +1,2 @@
 As you get up from bed. You see something shiny in the corner of your eye. You investigate and...
-[enter the room](../crazy-man/crazy-man.md)
+[enter the room](abandoned-hospital/crazy-man/crazy-man.md)
