@@ -1,2 +1,4 @@
-As you get up from bed. You see something shiny in the corner of your eye. You investigate and...
-[enter the room](..//crazy-man/crazy-man.md)
+As you get up from bed you decide to look around. Oh look, seems like a door? But there's a hallway on the other side. 
+Would you liek to go to...
+ [A. The dark room](..//crazy-man/crazy-man.md)
+ [B. The hallway](..//crazy-man/crazy-man.md)
